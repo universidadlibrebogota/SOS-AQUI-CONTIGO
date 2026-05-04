@@ -1,15 +1,17 @@
-# SOS-AQUI-CONTIGO.
+# SOS-AQUI-CONTIGO
 
-Proyecto Ingenieria de Software I.
+Proyecto Ingenieria de Software I
 
 Nombres participantes:
+
+-Romer Sebastian Diaz Sanchez.
+
+-David Santiago Granja Espinosa.
 
 -Juan Enrique Galeano Vargas.
 
 -Juan Sebastian Mancipe Caballero.
 
--David Santiago Granja Espinosa.
-
 -Juan Felipe Ramírez Cabeza.
 
--Romer Sebastian Diaz Sanchez.
+
