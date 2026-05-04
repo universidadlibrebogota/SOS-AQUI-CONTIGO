@@ -14,4 +14,12 @@ Nombres participantes:
 
 -Juan Felipe Ramírez Cabeza.
 
+ENLACE TRELLO:
+
+https://trello.com/b/Zjur3rqu/sos-aqui-contigo
+
+ENLACE FIGMA:
+
+
+
 
